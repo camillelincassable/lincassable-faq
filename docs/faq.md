@@ -1,4 +1,4 @@
-#Quelles sont les bouteilles actuellement disponibles pour le réemploi dans les Bouches-du-Rhône ?
+##Quelles sont les bouteilles actuellement disponibles pour le réemploi dans les Bouches-du-Rhône ?
 Voici la liste des références par producteurs déjà disponibles pour réemploi (peuvent être ramenées en point de collecte pour réemploi) : 
 
 [Bière] Brasserie	Zoumai : Marmaille 75cl - Château d'If 75cl - Pomegue été 75cl 	
@@ -13,7 +13,7 @@ Voici la liste des références par producteurs déjà disponibles pour réemplo
 Retrouvez les points de ventes partenaires près de chez vous qui distribuent et collectent ces bouteilles sur la [carte](http://umap.openstreetmap.fr/fr/map/lincassable-ou-trouver-rammener-mes-bouteilles_610505#1/43/6) disponible sur le site de l'Incassable. 
 
 
-#Pourquoi est-ce que l'on ne peut pas récupérer toutes les bouteilles 
+##Pourquoi est-ce que l'on ne peut pas récupérer toutes les bouteilles 
 Les bouteilles éligibles au réemploi, sont reconnaissable grâce au Pictogramme national réemploi intégré sur les étiquettes. La présence de ce pictogramme garantie que les bouteilles qui le portent font bien partie de la gamme standard L’Incassable, et que leurs étiquettes ont été adaptées selon le cahier des charges de l’Incassable (notamment avec des étiquettes à colle hydrosolubles qui partent au lavage). 
 Les autres bouteilles qui ne portent pas le pictogramme, ne sont malheureusement pas aptes au réemploi : leurs étiquettes ne sont pas lessivables, et les bouteilles ne sont pas forcément standardisées. 
 
