@@ -1,3 +1,5 @@
 * [Home](/)
 * [Producteurs](producteurs.md)
 * [Distributeurs](distributeurs.md)
+* [Ressources](ressources.md)
+* [FAQ](faq.md)
